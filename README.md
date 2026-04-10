@@ -32,8 +32,4 @@ My contribution in this repository is limited to enhancement, optimisation, conf
 
 ## Attribution note
 
-If any original creator or rights holder wants attribution corrected, expanded, or content removed, please open an issue or contact me and I will update the repository accordingly.
-
-The only sentence I would personally tighten is the first line of the provenance section. For GitHub, this version is cleaner:
-
-This repository contains an enhanced and optimised edit of an existing osu!mania skin; it does not claim original ownership of the base skin or all included assets.
+If any original creator or rights holder wants attribution corrected, expanded, or content removed, please open an issue or contact me and I will update the repository accordingly. This repository contains an enhanced and optimised edit of an existing osu!mania skin; it does not claim original ownership of the base skin or all included assets.
